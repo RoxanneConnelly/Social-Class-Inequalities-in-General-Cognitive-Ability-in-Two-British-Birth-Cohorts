@@ -6,7 +6,7 @@
 ### Roxanne Connelly (R.Connelly@warwick.ac.uk)
 ### Vernon Gayle (vernon.gayle@ed.ac.uk)
 
-This repository hosts a Jupyter Notebook which accompanies the paper above. Details of how to access the required data are available in the notebook.
+This repository hosts a Jupyter Notebook which accompanies the paper above. Details of how to access the required data are provided in the notebook.
 
 ### Abstract
 
