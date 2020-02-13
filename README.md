@@ -3,7 +3,7 @@
 ## An investigation of Social Class Inequalities in General Cognitive Ability in Two British Birth Cohorts 
 ## British Journal of Sociology
 
-### Roxanne Connelly (R.Connelly@warwick.ac.uk)
+### Roxanne Connelly (roxanne.connelly@york.ac.uk)
 ### Vernon Gayle (vernon.gayle@ed.ac.uk)
 
 This repository hosts a Jupyter Notebook which accompanies the paper above. Details of how to access the required data are provided in the notebook.
